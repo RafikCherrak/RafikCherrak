@@ -1,11 +1,11 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# 🎯 Développeur Full Stack passionné, spécialisé dans la création d'applications web modernes, performantes et scalables.
-Titulaire d’un Master 2 en Développement Web à Paris Ynov Campus, je conçois des solutions numériques à la fois robustes côté back-end et fluides côté front-end. J’interviens sur des projets variés (SaaS, e-commerce, intranet, outils métiers...) avec un souci constant de la qualité, de la performance et de l’expérience utilisateur.<br>
+# 🚀 Ingénieur DevOps & Cloud Azure | Terraform, CI/CD, Automatisation & Infrastructure as Code.
+Titulaire d’un Master 2 en Développement Web à Paris Ynov Campus, , je conçois, automatise et maintiens des infrastructures Cloud modernes, sécurisées, performantes et scalables. Spécialisé en DevOps, Azure, Terraform, Kubernetes et CI/CD, j’interviens sur des projets variés (Cloud, Infrastructure as Code, DevSecOps, automatisation, Build & Run...) avec un souci constant de la qualité, de la sécurité, de la disponibilité et de l’amélioration continue des environnements de production.r.<br>
 
 
 ## 🌐 Où me trouver
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafik-cherrak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
 
 
 ## 🚀 Langages et outils que j’utilise
